@@ -11,8 +11,8 @@
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Анализ бизнес индикаторов приложения](study-projects/Project_7_Analysis_of_business_indicators_of_the_app.ipynb) | Исследование причин убыточности рекламных кампаний приложения и рекомендации для окупаемости инвестиций| *pandas* |
-| [Анализ продаж компьютерных игр для игровых платформ ](study-projects/Composite_project_Analysis_of_gaming_platforms.ipynb) | Выявление определяющих успешность игры закономерностей для определения потенциально популярного продукта и планирования рекламные кампании| *pandas, matplotlib, numpy, seaborn* |
+| [Анализ бизнес индикаторов приложения](https://github.com/alexpopov25/alexpopov25/blob/study-projects/Project_7_Analysis_of_business_indicators_of_the_app.ipynb) | Исследование причин убыточности рекламных кампаний приложения и рекомендации для окупаемости инвестиций| *pandas, matplotlib, numpy, seaborn* |
+| [Анализ продаж компьютерных игр для игровых платформ](https://github.com/alexpopov25/alexpopov25/blob/study-projects/Composite_project_Analysis_of_gaming_platforms.ipynb) | Выявление определяющих успешность игры закономерностей для определения потенциально популярного продукта и планирования рекламные кампании| *pandas, matplotlib, numpy, seaborn* |
 <!---
 alexpopov25/alexpopov25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
